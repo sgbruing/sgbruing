@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Samuel Bruing</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Samuel</h1>
 <h3 align="center">A web developer and electronics enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
