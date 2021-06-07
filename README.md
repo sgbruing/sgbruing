@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Samuel</h1>
 <h3 align="center">A web developer and electronics enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgbruing" alt="sgbruing" /> </p>
 
 - 🔭 I’m currently working on [Marcopolo SA](https://www.marcopolo.com.br/)
 
@@ -8,15 +8,16 @@
 
 - ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, C++, IOT, Raspberry PI, and anything about technology 😜**
+- 💬 Ask me about **HTML, CSS, Javascript, SQL, Arduino, IOT and Raspberry PI 😜**
 
 - 📫 How to reach me **sgbruing@gmail.com**
 
 <p align="left">
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" alt="arduino" width="20" height="20"/>  
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt="maykbrito"/>-->
