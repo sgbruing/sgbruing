@@ -8,7 +8,7 @@
 
 - ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
 
-- 💬 Ask me about **HTML, CSS, Javascript, Arduino, IOT and Raspberry PI 😜**
+- 💬 Ask me about **HTML, CSS, Javascript, Angular, IOT and Raspberry PI 😜**
 
 - 📫 How to reach me **sgbruing@gmail.com**
 
